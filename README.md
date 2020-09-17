@@ -12,7 +12,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/> 
 -->
 
-### I am L Angela Gutierrez, a Full Stack Web Developer. You can reach me on [linkedin](https://www.linkedin.com/in/luz-angela-g-3256769b//) and can view [my portfolio](https://)
+### I am L Angela Gutierrez, a Full Stack Web Developer. You can reach me on [linkedin](https://www.linkedin.com/in/luz-angela-g-3256769b//) and can view [my portfolio](https://laggportfolio.netlify.com)
 
 ### Languages and Tools:
 
