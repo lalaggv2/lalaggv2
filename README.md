@@ -42,6 +42,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Phyton and Computational Thinking
 - 📫 How to reach me: luangu2020@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I knit for fun.
--  I'm also learning Java.
--  I want to apply my knowledge of design principles to the virtual work as a UX designer.
+- :yarn: Fun fact: I knit for fun.
+- :woman_technologist: I'm also learning Java.
+- :black_nib: I want to apply my knowledge of design principles to the virtual work as a UX designer.
